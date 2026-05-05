@@ -6,3 +6,4 @@
 
 ## Description
 An end-to-end ML pipeline for predicting short-term rental prices in NYC using Random Forest.
+Best model MAE: ~33.57 on test set.
